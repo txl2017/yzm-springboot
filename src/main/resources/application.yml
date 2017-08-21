@@ -1,0 +1,11 @@
+#服务端口
+server:
+  port: 9999
+  
+spring.data.mongodb.uri: mongodb://aaa1.sds.cc:27017/security_oauth_v2
+logging.level.yzm: DEBUG
+    
+hz:
+  url: 172.16.110.10:5701;172.16.110.12:5701
+  name: SDSCaster
+  pass: SDSCaster
